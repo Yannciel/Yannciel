@@ -1,5 +1,5 @@
-# 👋 Hello, I'm Mingqiang WANG | Bonjour, je suis Mingqiang WANG 
-<details>
+# 👋 Hello, I'm Mingqiang WANG 
+
 <summary>🇬🇧 English</summary>
 
 ## 🚀 About Me [Data Scientist NLP & Machine Learning Engineer]
@@ -31,7 +31,6 @@ Generative AI, time series analysis, and data visualization. I focus on developi
 ## 🌱 Currently Learning
 - Latest NLP technologies
 - MCP
-</details>
 
 <details>
 <summary>🇫🇷 Français</summary>
