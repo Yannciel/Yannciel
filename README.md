@@ -32,7 +32,7 @@ Generative AI, time series analysis, and data visualization. I focus on developi
 - Latest NLP technologies
 - MCP
 
-<details>
+
 <summary>🇫🇷 Français</summary>
 
 ## 🚀 À Propos [Data Scientist NLP & Machine Learning Engineer]
@@ -65,7 +65,7 @@ des spécialités en ainsi que des spécialités en LLM, Time Series. Je me conc
 ## 🌱 En Cours d'Apprentissage
 - Dernières technologies en TALN
 - MCP
-</details>
+
 
 ## 📫 Contact | Contact 
 - GitHub: [@Yannciel](https://github.com/Yannciel)
