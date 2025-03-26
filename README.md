@@ -33,6 +33,8 @@ Generative AI, time series analysis, and data visualization. I focus on developi
 - MCP
 
 
+-----
+
 <summary>🇫🇷 Français</summary>
 
 ## 🚀 À Propos [Data Scientist NLP & Machine Learning Engineer]
